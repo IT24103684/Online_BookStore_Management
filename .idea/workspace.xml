@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Online_BookStore:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2328efa-8ce2-44e9-b6ca-7c6595ad259f" name="Changes" comment="add a java file">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="b2328efa-8ce2-44e9-b6ca-7c6595ad259f" name="Changes" comment="add index.jsp code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -50,6 +51,16 @@
     &quot;accountId&quot;: &quot;6972b490-ce02-466d-8ab0-668bab8b4827&quot;
   }
 }</component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -61,9 +72,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Tomcat Server.Tomcat 9.executor": "Run",
     "git-widget-placeholder": "IT24103684",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -184,7 +198,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744228455852</updated>
       <workItem from="1744228457645" duration="2248000" />
-      <workItem from="1744232533113" duration="786000" />
+      <workItem from="1744232533113" duration="1210000" />
     </task>
     <task id="LOCAL-00001" summary="start the project">
       <option name="closed" value="true" />
@@ -218,7 +232,39 @@
       <option name="project" value="LOCAL" />
       <updated>1744232895025</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="create the structure">
+      <option name="closed" value="true" />
+      <created>1744233334655</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744233334655</updated>
+    </task>
+    <task id="LOCAL-00006" summary="create the structure">
+      <option name="closed" value="true" />
+      <created>1744233343727</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744233343727</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add index.jsp code">
+      <option name="closed" value="true" />
+      <created>1744233598320</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744233598320</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add index.jsp code">
+      <option name="closed" value="true" />
+      <created>1744233606357</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744233606357</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +273,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start the project" />
     <MESSAGE value="add a java file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add a java file" />
+    <MESSAGE value="create the structure" />
+    <MESSAGE value="add index.jsp code" />
+    <option name="LAST_COMMIT_MESSAGE" value="add index.jsp code" />
   </component>
 </project>
